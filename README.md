@@ -49,8 +49,11 @@ A simple console-based ATM Management System in Java that supports:
 📂 Project Structure:
 
 ├── atm.java           // Main class with login and ATM operations menu
+
 ├── accountUser.java    // User class for account details
+
 ├── bankManagement.java // ATM functionalities like deposit, withdraw, balance
+
 └── README.md           // Project Documentation
 
 🚀 How to Run:
